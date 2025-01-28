@@ -6,30 +6,47 @@
         }
 
 /*Trying to get h1 to be gradient oppistite to the background*/
-        h1 {
-    text-align: center;
-    font-family: Monaco, monospace;
-    font-size: 30px;
-    color: black;
-    background: linear-gradient(to left, black, white);
+h1 {
+  font-size: 72px;
+  background: -webkit-linear-gradient(black, white);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+}
+     
+h2 {
+    font-size: 50px;
+    padding: 60px;
+    background: -webkit-linear-gradient(black, white);
     -webkit-background-clip: text;
-    background-clip: text; 
-    -webkit-text-fill-color: transparent; 
+    -webkit-text-fill-color: transparent;
+    text-align: center;
 }
 
+p {
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 
-
-        
-        h2 {
-            padding: 60px;
-        }
+.vmask {
+    position: relative;
+    left: 43%;
+    bottom: -420px;
+}
 
         </style>
     <head>
         <title>SET08101 - Web Tech</title>
     </head>
     <body>
+        <div class="vmask">
+            <img src="https://raw.githubusercontent.com/siwells/webtech/master/resources/vmask.jpg" />
+        </div>
         <h1>Hello Web Tech</h1>
         <h2>SET08101 2024-5 TR2 001</h2>
+        <p>Welcome to the webtech class.</p>
+        <p>Have a look at my <a href="https://github.com/IWantSome314/Web-Technologies">repo</a> for this class</p>
+        <p> or my <a href="https://github.com/IWantSome314/Web-Technologies">github account</a> in general to see other projects I have.</p>
     </body>
 </html>
