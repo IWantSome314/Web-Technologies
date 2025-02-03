@@ -1,6 +1,6 @@
 - Lab-01 [x] / Make a webpage on gitpages and send to lecturer [my gitpage](https://iwantsome314.github.io/Web-Technologies/)
 - Lab-02 [x] / Adding Images and more data to the page
-- Lab-03 [] / 
+- Lab-03 [] / Added pages about me, Need to create a page for hobbys
 - Lab-04 []
 - Lab-05 []
 - Lab-06 []
