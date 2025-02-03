@@ -39,8 +39,8 @@ p {
 }
 
 .dropdown button{
-    background-color: #007BFF;
-            background: -webkit-linear-gradient(black, white);
+    background-color: #558bc5;
+            background: -webkit-linear-gradient(white);
             border: none;
             padding: 10px 20px;
             text-align: left;
@@ -50,7 +50,7 @@ p {
 }
 
 .dropdown button:hover {
-            background-color: white;
+            background-color: rgb(122, 122, 250);
         }
 
 .dropdown-content{
@@ -75,6 +75,10 @@ p {
         }
 .education-section {
     margin-bottom: 20px;
+}
+#AboutMelinks{
+    font-size: 20px;
+    text-align: center;
 }
         </style>
 
@@ -106,12 +110,14 @@ p {
             <p>Experienced in automation, monitoring, and cloud platforms such as Azure, Salt-Stack, Grafana, Prometheus and GitLab. Played a key role in managing and supporting the university's HPC/supercomputer infrastructure, which is supported by Dell and Alces. Proven track record of delivering excellent customer service and technical solutions in diverse environments.</p>
             <p>Successfully used Terraform to automate infrastructure tasks, improving efficiency across IT operations. Familiar with C#, Object-oriented programming, databases, and web development, with hands-on experience in both work-related tasks and academic projects. Eager to leverage and build upon technical expertise, project management experience, and problem-solving skills in a dynamic software engineering role.</p>
             <p>You can have a look to see more about me either below in the dropdown tabs or click the links to see it in a new page</p>
+        <div id="AboutMelinks">
             <nav>
-            <a href="/Web-Technologies/Skills/" target="_blank">Skills</a> | 
-            <a href="/Web-Technologies/Employment-History/" target="_blank">Employment</a> | 
-            <a href="/Web-Technologies/Certs/" target="_blank">Certifications</a> | 
-            <a href="/Web-Technologies/Education/" target="_blank">Education</a>
+                <button>Skills<a href="/Web-Technologies/Skills/" target="_blank"></a></button>
+                <button>Employment<a href="/Web-Technologies/Employment-History/" target="_blank"></a></button>
+                <button>Certifications</button><a href="/Web-Technologies/Certs/" target="_blank"></a></button>
+                <button>Education</button><a href="/Web-Technologies/Education/" target="_blank"></a></button
             </nav>
+            </div> 
         </div>
         <div class="dropdown">
             <button onclick="toggleDropdown('skills-section')">Skills</button>
