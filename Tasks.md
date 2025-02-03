@@ -1,0 +1,10 @@
+- Lab-01 [x] / Make a webpage on gitpages and send to lecturer [my gitpage](https://iwantsome314.github.io/Web-Technologies/)
+- Lab-02 [x] / Adding Images and more data to the page
+- Lab-03 []
+- Lab-04 []
+- Lab-05 []
+- Lab-06 []
+- Lab-07 []
+- Lab-08 []
+- Lab-09 []
+- Lab-10 []
