@@ -16,7 +16,6 @@ assessment.
 
 
 
-
 ## Part 1
 
 For this part of the assignment, you will develop an idea for your group’s fun
