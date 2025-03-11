@@ -16,20 +16,20 @@ I plan to work to work on the project on Tuesdays as this is the day I will be o
 ## How i think each section will look
 
 ### Riddle
-<img src="image.png" alt="img" style="width:500px;height:500px;">
+<img src="image.png" alt="img" style="width:300px;height:300px;">
 
 
 I plan the riddle page to look like the above wireframe most likely but I like the idea of being able to click on a object to interact with it for the riddle such as a piece of paper or news paper with a riddle and you have to enter the answer or click on a object that is the answer. such as a clock or a photo or even entering entering the answer in text 
 
 ### Spot the difference
-<img src="image-1.png" alt="img" style="width:500px;height:500px;">
+<img src="image-1.png" alt="img" style="width:300px;height:300px;">
 
 
 Spot the difference is where I think will test me the most but shouldnt be too hard I have an idea of 2 Photos which are quite old and there is around 5 objects you will have to see the difference in which would help you find guide your way to your friend. Maybe like numbers or changes in the different images will give you the clues you need to proceed with the quest I imagine seeing the differences that lead you to the clue could be like a door that is not in one of the photos is the same door you need to enter or mural in a photo and the centre piece of the mural is a mural on the door or answer such as a lion or a shape.
 
 ### Win Page
 
-<img src="image-2.png" alt="img" style="width:500px;height:500px;">
+<img src="image-2.png" alt="img" style="width:300px;height:300px;">
 
 
 The win page will display the 2 freinds hugging after finding each other. With a button to restart.
